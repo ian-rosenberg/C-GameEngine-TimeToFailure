@@ -1,0 +1,34 @@
+{
+	"Numbers" : {
+		"frameWidth" : 27,
+		"frameHeight" : 35,
+		"xOffset" : 1,
+		"frames" : 10,
+		"rate" : 8
+	},
+	
+	"Player_Walk" : {
+		"frameWidth" : 50,
+		"frameHeight" : 82,
+		"xOffset" : 1,
+		"frames" : 7,
+		"rate" : 8
+	},
+	
+	"Player_Idle" : {
+		"frameWidth" : 39,
+		"frameHeight" : 87,
+		"xOffset" : 1,
+		"frames" : 8,
+		"rate" : 8
+	},
+	
+	"Player_Punch" : {
+		"frameWidth" : 75,
+		"frameHeight" : 87,
+		"xOffset" : 1,
+		"frames" : 8,
+		"rate" : 8
+	}
+	
+}

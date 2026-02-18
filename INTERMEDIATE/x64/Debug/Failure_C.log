@@ -1,0 +1,11 @@
+﻿  sprite.c
+C:\Users\Ian\source\repos\Failure_C\engine\src\sprite.c(65,14): error C2039: 'texture': is not a member of 'SpriteManager'
+      C:\Users\Ian\source\repos\TimeToFailure_C\TimeToFailure_C\engine\include\sprite.h(25,16):
+      see declaration of 'SpriteManager'
+  
+C:\Users\Ian\source\repos\Failure_C\engine\src\sprite.c(76,36): error C2039: 'texture': is not a member of 'SpriteManager'
+      C:\Users\Ian\source\repos\TimeToFailure_C\TimeToFailure_C\engine\include\sprite.h(25,16):
+      see declaration of 'SpriteManager'
+  
+  types.c
+  Generating Code...

@@ -1,0 +1,10 @@
+numAnimations:5
+actorName:Player
+color:255,255,255,255
+scale:1.0,1.0
+Animation:data/player/Player_Idle.anim
+Animation:data/player/Player_Walk.anim
+Animation:data/player/Player_Jump.anim
+Animation:data/player/Player_Fall.anim
+Animation:data/player/Player_Land.anim
+~

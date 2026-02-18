@@ -1,0 +1,18 @@
+{
+  "columns": 9,
+  "spritesheet": "images/Grassland/spritesheet.png",
+  "imageForDescription": "../../../images/Grassland/spritesheet.png",
+  "generationDescriptionOut": "grassTiles_description.json",
+  "generationDescription": "data/tilemap/Grassland/grassTiles_description.json",
+  "imageheight": 1242,
+  "imagewidth": 1242,
+  "margin": 5,
+  "name": "Grassland",
+  "spacing": 10,
+  "tilecount": 79,
+  "tileheight": 128,
+  "tilewidth": 128,
+  "direction": "north",
+  "startIndex": 1,
+  "endIndex": 79
+}

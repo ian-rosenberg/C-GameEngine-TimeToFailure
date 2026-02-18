@@ -1,0 +1,12 @@
+name:jump
+filename:images/Player/Welder_Jump.png
+colorSpecial:10,255,100,255
+stripDir:0
+length:10
+frameWidth:128
+frameHeight:128
+frameRate:0.42
+type:hold
+forcedCompletion:0
+transitions:jump,fall;
+~

@@ -1,0 +1,12 @@
+name:land
+filename:images/Player/Welder_Land.png
+colorSpecial:10,255,100,255
+stripDir:0
+length:20
+frameWidth:128
+frameHeight:128
+frameRate:0.42
+type:once
+forcedCompletion:1
+transitions:walk,idle,jump;
+~

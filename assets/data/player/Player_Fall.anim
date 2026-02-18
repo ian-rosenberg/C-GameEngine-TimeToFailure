@@ -1,0 +1,12 @@
+name:fall
+filename:images/Player/Welder_Fall.png
+colorSpecial:10,255,100,255
+stripDir:0
+length:20
+frameWidth:128
+frameHeight:128
+frameRate:0.42
+type:hold
+forcedCompletion:0
+transitions:land;
+~

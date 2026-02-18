@@ -1,0 +1,12 @@
+{ "columns":4,
+ "image":"images/tilemap/factory/pipeTiles.png",
+ "imageheight":64,
+ "imagewidth":256,
+ "margin":0,
+ "name":"pipeTiles",
+ "spacing":0,
+ "tilecount":4,
+ "tileheight":64,
+ "tilewidth":64,
+ "direction":"east"
+}
